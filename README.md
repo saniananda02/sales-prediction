@@ -53,8 +53,3 @@ Target:
 - TV advertising has the highest impact on sales
 - Radio also contributes significantly
 - Newspaper has minimal impact
-
----
-
-## ▶️ How to Run
-1. Clone the repository:
